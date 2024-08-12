@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4D58C0DC-FC1F-4FD2-B8D4-CAAD2743F9C5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF0AE50C-17E4-4712-970D-0E2C5016E8E6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VPNTestTask/Infrastructure/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "request(url:method:parameters:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DF0AE50C-17E4-4712-970D-0E2C5016E8E6 - cdc20b2c041301c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for VPNTestTask.NetworkManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Foundation.URL, method: VPNTestTask.HTTPMethod, parameters: Swift.Dictionary&lt;Swift.String, Any&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "VPNTestTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yevhenkyivskyi/Desktop/VPNTestTask/VPNTestTask/Infrastructure/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "704">
+               </Location>
+               <Location
+                  uuid = "DF0AE50C-17E4-4712-970D-0E2C5016E8E6 - 4ad92101d1eae92b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for VPNTestTask.NetworkManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Foundation.URL, method: VPNTestTask.HTTPMethod, parameters: Swift.Dictionary&lt;Swift.String, Any&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "VPNTestTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yevhenkyivskyi/Desktop/VPNTestTask/VPNTestTask/Infrastructure/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "DF0AE50C-17E4-4712-970D-0E2C5016E8E6 - 4ad92101d1eae823"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for VPNTestTask.NetworkManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Foundation.URL, method: VPNTestTask.HTTPMethod, parameters: Swift.Dictionary&lt;Swift.String, Any&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "VPNTestTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yevhenkyivskyi/Desktop/VPNTestTask/VPNTestTask/Infrastructure/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "DF0AE50C-17E4-4712-970D-0E2C5016E8E6 - 4085a926fd6ff512"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for VPNTestTask.NetworkManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Foundation.URL, method: VPNTestTask.HTTPMethod, parameters: Swift.Dictionary&lt;Swift.String, Any&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "VPNTestTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yevhenkyivskyi/Desktop/VPNTestTask/VPNTestTask/Infrastructure/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "DF0AE50C-17E4-4712-970D-0E2C5016E8E6 - 4085a926fd6ff41a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for VPNTestTask.NetworkManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Foundation.URL, method: VPNTestTask.HTTPMethod, parameters: Swift.Dictionary&lt;Swift.String, Any&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "VPNTestTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yevhenkyivskyi/Desktop/VPNTestTask/VPNTestTask/Infrastructure/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  uuid = "DF0AE50C-17E4-4712-970D-0E2C5016E8E6 - 1f66d260f0e31b13"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for VPNTestTask.NetworkManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Foundation.URL, method: VPNTestTask.HTTPMethod, parameters: Swift.Dictionary&lt;Swift.String, Any&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "VPNTestTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yevhenkyivskyi/Desktop/VPNTestTask/VPNTestTask/Infrastructure/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "DF0AE50C-17E4-4712-970D-0E2C5016E8E6 - 1f66d260f0e31a1b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for VPNTestTask.NetworkManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Foundation.URL, method: VPNTestTask.HTTPMethod, parameters: Swift.Dictionary&lt;Swift.String, Any&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "VPNTestTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yevhenkyivskyi/Desktop/VPNTestTask/VPNTestTask/Infrastructure/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E08E0289-6BD5-4061-A1C4-E33EE7AB0E99"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VPNTestTask/Services/Auth/AuthorizationService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "login(userName:password:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E08E0289-6BD5-4061-A1C4-E33EE7AB0E99 - 92909342dcde50ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for VPNTestTask.AuthorizationService.login(userName: Swift.String, password: Swift.String) async throws -&gt; ()"
+                  moduleName = "VPNTestTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yevhenkyivskyi/Desktop/VPNTestTask/VPNTestTask/Services/Auth/AuthorizationService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "E08E0289-6BD5-4061-A1C4-E33EE7AB0E99 - bd48bbbaa7f0b28e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for VPNTestTask.AuthorizationService.login(userName: Swift.String, password: Swift.String) async throws -&gt; ()"
+                  moduleName = "VPNTestTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yevhenkyivskyi/Desktop/VPNTestTask/VPNTestTask/Services/Auth/AuthorizationService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4DEA4D91-3FE8-4D1B-A707-3AA1CFED27E9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VPNTestTask/Infrastructure/Network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "request(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4DEA4D91-3FE8-4D1B-A707-3AA1CFED27E9 - 764c37e3d9d70b23"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for VPNTestTask.NetworkManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(VPNTestTask.VPNRequestConvertible) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "VPNTestTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yevhenkyivskyi/Desktop/VPNTestTask/VPNTestTask/Infrastructure/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  uuid = "4DEA4D91-3FE8-4D1B-A707-3AA1CFED27E9 - c10b39d2474bcc25"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for VPNTestTask.NetworkManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(VPNTestTask.VPNRequestConvertible) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "VPNTestTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yevhenkyivskyi/Desktop/VPNTestTask/VPNTestTask/Infrastructure/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "1148">
+               </Location>
+               <Location
+                  uuid = "4DEA4D91-3FE8-4D1B-A707-3AA1CFED27E9 - eba7a33a7d8c6fa4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for VPNTestTask.NetworkManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(VPNTestTask.VPNRequestConvertible) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "VPNTestTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yevhenkyivskyi/Desktop/VPNTestTask/VPNTestTask/Infrastructure/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "4DEA4D91-3FE8-4D1B-A707-3AA1CFED27E9 - 764c37e3d9d70b23"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for VPNTestTask.NetworkManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(VPNTestTask.VPNRequestConvertible) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "VPNTestTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yevhenkyivskyi/Desktop/VPNTestTask/VPNTestTask/Infrastructure/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "4DEA4D91-3FE8-4D1B-A707-3AA1CFED27E9 - 27c90407ca6bcdd8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for VPNTestTask.NetworkManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(VPNTestTask.VPNRequestConvertible) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "VPNTestTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yevhenkyivskyi/Desktop/VPNTestTask/VPNTestTask/Infrastructure/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "4DEA4D91-3FE8-4D1B-A707-3AA1CFED27E9 - c10b39d2474bcc25"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for VPNTestTask.NetworkManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(VPNTestTask.VPNRequestConvertible) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "VPNTestTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yevhenkyivskyi/Desktop/VPNTestTask/VPNTestTask/Infrastructure/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "4DEA4D91-3FE8-4D1B-A707-3AA1CFED27E9 - eba7a33a7d8c6fa4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for VPNTestTask.NetworkManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(VPNTestTask.VPNRequestConvertible) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "VPNTestTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yevhenkyivskyi/Desktop/VPNTestTask/VPNTestTask/Infrastructure/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE39CC1B-FE8D-49E2-951B-FF51F581908D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestioVPN/Infrastructure/Network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "request(_:isAnonymous:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "953A6AF1-7462-4801-B891-440A80C2435A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestioVPN/Infrastructure/Network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "request(_:isAnonymous:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0F5B743C-74CB-4072-AF4E-85B7DDF65482"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestioVPN/TestioVPNApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "0F5B743C-74CB-4072-AF4E-85B7DDF65482 - f84b6b85d13e434e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestioVPN.TestioVPNApp.body.getter : some"
+                  moduleName = "TestioVPN"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yevhenkyivskyi/Desktop/VPNTestTask/TestioVPN/TestioVPNApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "0F5B743C-74CB-4072-AF4E-85B7DDF65482 - 72bf1592da178713"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;TestioVPN.ServersListScreen, TestioVPN.AuthorizationScreen&gt; in TestioVPN.TestioVPNApp.body.getter : some"
+                  moduleName = "TestioVPN"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yevhenkyivskyi/Desktop/VPNTestTask/TestioVPN/TestioVPNApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
